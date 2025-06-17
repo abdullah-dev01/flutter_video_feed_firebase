@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "27828272558",
+    "firebase_url": "https://brokrapp-382604-default-rtdb.firebaseio.com",
+    "project_id": "brokrapp-382604",
+    "storage_bucket": "brokrapp-382604.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27828272558:android:0550a47b43dc6fa026dc3f",
+        "android_client_info": {
+          "package_name": "com.brokrapp.brokr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27828272558-049o6pn0ejo5oiu4es2rlu8nesrbo0nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brokrapp.brokr",
+            "certificate_hash": "e88f0ec96d360fe73e82352a106a66f736e19957"
+          }
+        },
+        {
+          "client_id": "27828272558-0btaas8ulehvm35247ubit81nf813jnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brokrapp.brokr",
+            "certificate_hash": "c1fa2b3bf3e57a186412230968d4013a1b892335"
+          }
+        },
+        {
+          "client_id": "27828272558-26cf65291p4juutpc1hhndnc47ore7vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brokrapp.brokr",
+            "certificate_hash": "3fc0098a02d7e8c88545e45d87e77e0030f78efe"
+          }
+        },
+        {
+          "client_id": "27828272558-4av1an21hc5q55i7svsa5imt9hjtjfg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brokrapp.brokr",
+            "certificate_hash": "6a57b80af2a40624a1287229a9a2fff816061dbe"
+          }
+        },
+        {
+          "client_id": "27828272558-7udvhvm7hvs8nh8abju49aq8vdk2rabg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brokrapp.brokr",
+            "certificate_hash": "05813758de5761f4a88b6a5cacad4d6cab0b7b3e"
+          }
+        },
+        {
+          "client_id": "27828272558-mm7qfjin7mju3mqaem98e813rpm1kddo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brokrapp.brokr",
+            "certificate_hash": "fa2d140890870beb0d5d3ad28b1ad76842ce25b5"
+          }
+        },
+        {
+          "client_id": "27828272558-srsbndt7cqomdjo49d73ofms99rktnlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brokrapp.brokr",
+            "certificate_hash": "51e2bbfa201fb4441ce7ada53d5f33437d3d1132"
+          }
+        },
+        {
+          "client_id": "27828272558-73al2quusft85me5toitl6klgch4bcav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ4C5ZUTPvjChOozr5fvCHIasbkcp9EdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27828272558-362i0kmgo9o4durqrm24acadis5chdv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27828272558-2anm22h2fibd8581475hmjvess32qhn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brokrinc.brokr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27828272558:android:808a11fe43d835a426dc3f",
+        "android_client_info": {
+          "package_name": "com.example.assignment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27828272558-73al2quusft85me5toitl6klgch4bcav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ4C5ZUTPvjChOozr5fvCHIasbkcp9EdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27828272558-362i0kmgo9o4durqrm24acadis5chdv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27828272558-2anm22h2fibd8581475hmjvess32qhn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brokrinc.brokr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

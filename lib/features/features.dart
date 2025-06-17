@@ -1,5 +1,5 @@
 export 'screens/screens.dart';
-export 'controller/controller.dart';
+export 'providers/providers.dart';
 export 'widgets/widgets.dart';
 
 // export 'auth/auth.dart';
