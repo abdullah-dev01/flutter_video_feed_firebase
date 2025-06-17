@@ -3,17 +3,17 @@
     "platforms": {
       "android": {
         "default": {
-          "projectId": "brokrapp-382604",
-          "appId": "1:27828272558:android:808a11fe43d835a426dc3f",
+          "projectId": "videohub-app-23a14",
+          "appId": "1:509026802577:android:4670fe6278f1ccbfff5830",
           "fileOutput": "android/app/google-services.json"
         }
       },
       "dart": {
         "lib/firebase_options.dart": {
-          "projectId": "brokrapp-382604",
+          "projectId": "videohub-app-23a14",
           "configurations": {
-            "android": "1:27828272558:android:808a11fe43d835a426dc3f",
-            "web": "1:27828272558:web:22017a4a09ff564226dc3f"
+            "android": "1:509026802577:android:4670fe6278f1ccbfff5830",
+            "web": "1:509026802577:web:4a95a7b717d5cd10ff5830"
           }
         }
       }

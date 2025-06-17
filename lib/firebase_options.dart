@@ -50,22 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBunVYwlxf7Lyq5d4B10tmOoUxBRrt4QL4',
-    appId: '1:27828272558:web:22017a4a09ff564226dc3f',
-    messagingSenderId: '27828272558',
-    projectId: 'brokrapp-382604',
-    authDomain: 'brokrapp-382604.firebaseapp.com',
-    databaseURL: 'https://brokrapp-382604-default-rtdb.firebaseio.com',
-    storageBucket: 'brokrapp-382604.firebasestorage.app',
-    measurementId: 'G-RXJC47EGYQ',
+    apiKey: 'AIzaSyBhuafhgNkYYcAYDCqyDeI6IrRxjo2oXGc',
+    appId: '1:509026802577:web:4a95a7b717d5cd10ff5830',
+    messagingSenderId: '509026802577',
+    projectId: 'videohub-app-23a14',
+    authDomain: 'videohub-app-23a14.firebaseapp.com',
+    storageBucket: 'videohub-app-23a14.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDZ4C5ZUTPvjChOozr5fvCHIasbkcp9EdA',
-    appId: '1:27828272558:android:808a11fe43d835a426dc3f',
-    messagingSenderId: '27828272558',
-    projectId: 'brokrapp-382604',
-    databaseURL: 'https://brokrapp-382604-default-rtdb.firebaseio.com',
-    storageBucket: 'brokrapp-382604.firebasestorage.app',
+    apiKey: 'AIzaSyCS0ks3za5-SD_tp1632B1KNedY7C3YzCA',
+    appId: '1:509026802577:android:4670fe6278f1ccbfff5830',
+    messagingSenderId: '509026802577',
+    projectId: 'videohub-app-23a14',
+    storageBucket: 'videohub-app-23a14.firebasestorage.app',
   );
+
 }
